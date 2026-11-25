@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+certs/*.pem
+certs/letsencrypt/
+npm-debug.log*
+.DS_Store
+Thumbs.db
+coverage/
+*.log
+cookies.txt
+.vscode/
+.idea/
